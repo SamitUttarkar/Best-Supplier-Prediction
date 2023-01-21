@@ -9,7 +9,7 @@
 ## Data Coding and Analysis
 
 Three datasets were provided for this project:
-- tasks.xlsx
+- [tasks.xlsx](https://github.com/SamitUttarkar/Best-Supplier-Prediction/blob/main/Support_Data/cost.csv)
 - costs.csv
 - suppliers.csv
 
