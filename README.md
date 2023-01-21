@@ -12,6 +12,7 @@ Three datasets were provided for this project:
 - tasks.xlsx
 - costs.csv
 - suppliers.csv
+
 The attributes for all three datasets were then obtained. Table 1 (before) describes the obtained attributes.
 
 ### Data Preparation 
