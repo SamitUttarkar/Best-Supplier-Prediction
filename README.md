@@ -1,3 +1,5 @@
+Project Breif 
+
 Installation & Running
 
 - Download Zip Folder BeePy_Python (Unzip)
@@ -51,6 +53,6 @@ Installation & Running
         - Step 5 includes all the previous steps imported
         - Individual steps can also run individually
 
-- Group BeePy
+
 
 
