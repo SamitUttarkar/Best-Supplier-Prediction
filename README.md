@@ -9,9 +9,9 @@
 ## Data Coding and Analysis
 
 Three datasets were provided for this project:
-- [tasks.xlsx](https://github.com/SamitUttarkar/Best-Supplier-Prediction/blob/main/Support_Data/cost.csv)
-- costs.csv
-- suppliers.csv
+- [tasks.xlsx](https://github.com/SamitUttarkar/Best-Supplier-Prediction/blob/main/Support_Data/tasks.csv)
+- [costs.csv](https://github.com/SamitUttarkar/Best-Supplier-Prediction/blob/main/Support_Data/costs.csv)
+- [suppliers.csv](https://github.com/SamitUttarkar/Best-Supplier-Prediction/blob/main/Support_Data/suppliers.csv)
 
 The attributes for all three datasets were then obtained. Table 1 (before) describes the obtained attributes.
 
