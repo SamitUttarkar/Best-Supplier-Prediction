@@ -4,7 +4,7 @@
 
 # **Prpject Breif**
 
-** This projects demonstrates the use of machine learning (ML) models in recommending the best suppliers to Acme Corporation, given a set of task features. This process begins with data cleaning and preparation, exploratory data analysis (EDA) and machine learning, where results from predicted data can be obtained. Cross-validation (Leave-One-Group-Out) is used to validate the ML model score, and hyper-parameter optimization is further used to find the optimal set of hyper-parameters for improved predictions.**
+**This projects demonstrates the use of machine learning (ML) models in recommending the best suppliers to Acme Corporation, given a set of task features. This process begins with data cleaning and preparation, exploratory data analysis (EDA) and machine learning, where results from predicted data can be obtained. Cross-validation (Leave-One-Group-Out) is used to validate the ML model score, and hyper-parameter optimization is further used to find the optimal set of hyper-parameters for improved predictions.**
 
 ## Data Coding and Analysis
 
